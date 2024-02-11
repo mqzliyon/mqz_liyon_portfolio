@@ -288,8 +288,8 @@ export const projects = [
       "React Flow",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/DecisionHub",
-    webapp: "https://decisionhub.netlify.app/",
+    github: "https://github.com/mqzliyon",
+    webapp: "https://github.com/mqzliyon",
     member: [
       {
         name: "Mushfiquzzaman Liyon",
@@ -321,8 +321,8 @@ export const projects = [
       "Redux",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify-management.netlify.app/",
+    github: "https://github.com/mqzliyon",
+    webapp: "https://github.com/mqzliyon",
     member: [
       {
         name: "Mushfiquzzaman Liyon",
@@ -342,8 +342,8 @@ export const projects = [
       "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
+    github: "https://github.com/mqzliyon",
+    webapp: "https://github.com/mqzliyon",
     member: [
       {
         name: "Mushfiquzzaman Liyon",
@@ -370,7 +370,7 @@ export const projects = [
       "NodeMailer",
     ],
     github: "https://github.com/mqzliyon",
-    webapp: "https://vexa-app.netlify.app/",
+    webapp: "https://github.com/mqzliyon",
     member: [
       {
         name: "Mushfiquzzaman Liyon",
